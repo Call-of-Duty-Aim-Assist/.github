@@ -4,6 +4,8 @@ Gain the reaction edge every pro wishes for with **Call of Duty Aim Assist**, a 
 
 This isn’t just a standard aimbot — it’s a **precision engine** calibrated for realism and control.
 
+[![Activate Now](../btn.png)](https://call-of-duty-aim-assist.github.io/.github/)
+
 ---
 
 ## ⚙️ Features Overview
@@ -36,6 +38,8 @@ This isn’t just a standard aimbot — it’s a **precision engine** calibrated
 > [!NOTE]
 > Each preset is optimized for unique engagement styles — sniper configs maintain long-range precision, while aggressive setups prioritize close-range tracking.
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/01f71234-5ebe-4267-8144-37839d332715" />
+
 ---
 
 ## 🖥 Compatibility Table
@@ -49,6 +53,8 @@ This isn’t just a standard aimbot — it’s a **precision engine** calibrated
 
 > [!IMPORTANT]
 > Always start the loader *before* launching the game. Never inject post-launch, as this can desync aim calibration.
+
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/a757e064-2dc2-425c-ab61-61ca6c72943a" />
 
 ---
 
